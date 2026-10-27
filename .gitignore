@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch weights (auto-downloaded by Ultralytics)
+*.pt
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+*.swp
+*~
